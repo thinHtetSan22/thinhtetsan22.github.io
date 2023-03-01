@@ -82,7 +82,7 @@ body{
 }
 
 .plan-box a:hover{
-	outline: none;
+	text-decoration: none;
 }
 
 .btn{
